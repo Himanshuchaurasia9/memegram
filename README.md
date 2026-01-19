@@ -1,16 +1,18 @@
-# meme_app
+# MemeGram 😄
 
-A new Flutter project.
+A modern Reddit meme app built with Flutter.
 
-## Getting Started
+## Features
+- 🔀 Random, Dank & Wholesome memes
+- 🌗 Light & Dark theme (system adaptive)
+- 🔄 Pull to refresh
+- 📤 Share memes
+- 🔗 Open original Reddit post
 
-This project is a starting point for a Flutter application.
+## API Used
+[Meme API by D3vd](https://github.com/D3vd/Meme_Api)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+(coming soon)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Made with ❤️ by Himanshu Chaurasia
