@@ -77,7 +77,7 @@ class AboutScreen extends StatelessWidget {
               trailing: IconButton(
                 icon: const Icon(Icons.open_in_new),
                 onPressed: () {
-                  _launchURL('https://github.com/YourGitHubUsername/Memegram');
+                  _launchURL('https://github.com/Himanshuchaurasia9/memegram');
                 },
               ),
             ),

@@ -34,7 +34,7 @@ class MemeCard extends StatelessWidget {
 
   // 🔹 Share meme link
   void shareMeme() {
-    final appLink = 'https://github.com/yourusername/memegram'; // your app link
+    final appLink = 'https://himanshuchaurasia9.github.io/memegram/'; // your app link
     final text =
         'Check out this meme! $postLink\n\nGet MemeGram app: $appLink';
     Share.share(text);

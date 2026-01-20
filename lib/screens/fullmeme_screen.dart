@@ -46,7 +46,7 @@ class FullscreenMemeScreen extends StatelessWidget {
             icon: const Icon(Icons.share_outlined),
             onPressed: () {
               Share.share(
-                '${meme.title ?? 'Check out this meme!'}\n${meme.postLink ?? ''}\nGet MemeGram: https://github.com/yourrepo',
+                '${meme.title ?? 'Check out this meme!'}\n${meme.postLink ?? ''}\nGet MemeGram: https://himanshuchaurasia9.github.io/memegram/',
               );
             },
           ),
